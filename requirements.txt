@@ -1,0 +1,23 @@
+google-genai>=2.4.0
+google-generativeai>=0.8.3
+sounddevice>=0.4.6
+pillow>=10.0.0
+requests>=2.31.0
+beautifulsoup4>=4.12.2
+duckduckgo-search>=5.0.0
+playwright>=1.40.0
+pyautogui>=0.9.54
+pyperclip>=1.8.2
+pygetwindow>=0.0.9; sys_platform == 'win32'
+opencv-python>=4.8.0
+numpy>=1.24.0
+mss>=9.0.1
+psutil>=5.9.5
+python-pptx>=0.6.21
+pyqt6>=6.6.0
+comtypes>=1.2.0; sys_platform == 'win32'
+pycaw>=20230407; sys_platform == 'win32'
+win10toast>=0.9; sys_platform == 'win32'
+pywinauto>=0.6.8; sys_platform == 'win32'
+send2trash>=1.8.2
+youtube-transcript-api>=0.6.1
