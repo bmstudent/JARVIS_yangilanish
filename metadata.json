@@ -1,0 +1,11 @@
+{
+  "name": "Remix Remix Remix MARK XXXIX — JARVIS AI Assistant",
+  "description": "Mark XXXIX Iron Man JARVIS AI Assistant with interactive holographic HUD, real-time voice, hardware telemetry, file analysis, and complete Python project fixer.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
